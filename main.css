@@ -26,12 +26,12 @@ header {
 h1.Title {
     box-shadow: 0 0 5px 5px rgba(255, 255, 255, .65);
     text-align: center;
-    width: 57%;
+    width: 65%;
     height: 200px;
     background-color: rgba(0, 0, 0, .85);
     color: white;
     margin:auto;
-    font-size: 175px;
+    font-size: 150px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     /*padding: 0px 5em 15px 5em;*/
 }
